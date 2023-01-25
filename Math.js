@@ -69,4 +69,5 @@ function same(){
 
 function delet(){
     document.getElementById("screen").value = array;
+    alert("Sorry :( , no hemos solucionado este error");
 }
