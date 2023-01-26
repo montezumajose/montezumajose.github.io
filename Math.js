@@ -1,5 +1,4 @@
 let array = "";
-let valueArray = "";
 
 function one(){
     array = document.getElementById("screen").value = array.concat(1);
@@ -67,6 +66,7 @@ function same(){
 }
 
 function delet(){
+    let valueArray = "";
     for (let i = 0; i < array.length; i++){
         valueArray = array[i];
     }
