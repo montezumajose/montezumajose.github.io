@@ -17,9 +17,10 @@ body{
     border: 3px solid rgba(232, 29, 6, 0.546);
     margin: 31%;
     font-size: 179%;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: Arial serif;
+    font-weight: bold;
     position: relative;
-    right: 85px;
+    right: 120px;
 }
 
 button{
